@@ -1,4 +1,4 @@
-# toti-mont
+# TOTI MONT website
 
 Contact website for Toti-mont s.r.o.
 
